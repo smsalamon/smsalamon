@@ -4,7 +4,7 @@ ___
 
 Prounouns: she/her
 
-[Connect with me on LinkedIn](www.linkedin.com/in/stacey-salamon)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/stacey-salamon)
 ___
 
 
