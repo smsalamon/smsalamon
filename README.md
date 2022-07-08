@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Stacey. 
 ___
 💻 I'm a technical writer.
+
 Prounouns: she/her
 <div id="badges">
   <a href="www.linkedin.com/in/stacey-salamon">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge that links to Stacey Salamon's LinkedIn profile page."/>
+  </a>
 </div>
 ___
 
