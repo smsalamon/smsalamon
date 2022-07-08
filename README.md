@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Stacey. 
+___
+💻 I'm a technical writer.
+Prounouns: she/her
+<div id="badges">
+  <a href="www.linkedin.com/in/stacey-salamon">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+___
+
+
 
 <!--
 **smsalamon/smsalamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
