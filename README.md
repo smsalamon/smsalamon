@@ -3,11 +3,8 @@ ___
 💻 I'm a technical writer.
 
 Prounouns: she/her
-<div id="badges">
-  <a href="www.linkedin.com/in/stacey-salamon">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge that links to Stacey Salamon's LinkedIn profile page."/>
-  </a>
-</div>
+
+[![LinkedIn badge that links to Stacey Salamon's LinkedIn profile page.](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/stacey-salamon)
 ___
 
 
