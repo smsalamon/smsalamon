@@ -4,7 +4,7 @@ ___
 
 Prounouns: she/her
 
-[![LinkedIn badge that links to Stacey Salamon's LinkedIn profile page.](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/stacey-salamon)
+![LinkedIn badge that links to Stacey Salamon's LinkedIn profile page.](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
 ___
 
 
