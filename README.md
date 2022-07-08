@@ -4,7 +4,11 @@ ___
 
 Prounouns: she/her
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/stacey-salamon)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/stacey-salamon">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 ___
 
 
