@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Stacey. 
 ___
-💻 I'm a technical writer.
+💻 I write technical documentation and UX copy.
 
 Prounouns: she/her
 
