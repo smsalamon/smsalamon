@@ -10,7 +10,9 @@ Prounouns: she/her
   </a>
 </div>
 ___
- 🔭 Currently working on: <a href="https://github.com/aiven/devportal">Docs at Aiven</a>
+
+
+🔭 Currently working on: <a href="https://github.com/aiven/devportal">Docs at Aiven</a>
 
 
 <!--
