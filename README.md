@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Stacey. 
+### Hi there 👋 I'm Stacey. (she/her)
 ___
 💻 I write technical documentation and UX copy.
 
@@ -10,7 +10,7 @@ Prounouns: she/her
   </a>
 </div>
 ___
-
+ 🔭 Currently working on: <a href="https://github.com/aiven/devportal">Docs at Aiven</a>
 
 
 <!--
