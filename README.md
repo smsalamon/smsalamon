@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Stacey. (she/her)
+### Hi there 👋 I'm Stacey. 
 ___
 💻 I'm a technical and UX writer. 
 
@@ -11,21 +11,8 @@ Prounouns: she/her
 </div>
 ___
 
-
+😄 Pronouns: she/her
 🔭 Currently working on: <a href="https://github.com/aiven/devportal">Docs at Aiven</a>
 
 
-<!--
-**smsalamon/smsalamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![@staceysalamon's Holopin board](https://holopin.me/staceysalamon)](https://holopin.io/@staceysalamon)
