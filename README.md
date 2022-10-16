@@ -12,6 +12,7 @@ Prounouns: she/her
 ___
 
 😄 Pronouns: she/her
+
 🔭 Currently working on: <a href="https://github.com/aiven/devportal">Docs at Aiven</a>
 
 
