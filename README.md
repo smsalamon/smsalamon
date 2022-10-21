@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Stacey. 
+### 👋 I'm Stacey. 
 ___
 💻 I'm a technical and UX writer. 
 
@@ -10,8 +10,6 @@ Prounouns: she/her
   </a>
 </div>
 ___
-
-😄 Pronouns: she/her
 
 🔭 Currently working on: <a href="https://github.com/aiven/devportal">Docs at Aiven</a>
 
