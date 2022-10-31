@@ -1,16 +1,28 @@
 {
 	"firstName": "Stacey",
+	
 	"lastName": "Salamon",
+	
 	"pronouns": [
+	
 		"she",
+		
 		"her",
+		
 		"hers"
 	],
+	
+	
 	"city": "Berlin",
+	
 	"roles": [
+	
 		"Technical Writer",
+		
 		"UX Writer"
+		
 	]
+	
 }
 
 ___
