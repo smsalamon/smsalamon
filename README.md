@@ -24,9 +24,9 @@ ___
   </a>
 </div>
 
-___
-
 🔭 Currently working on: <a href="https://github.com/aiven/devportal">Docs at Aiven</a>
+
+___
 
 
 [![@staceysalamon's Holopin board](https://holopin.me/staceysalamon)](https://holopin.io/@staceysalamon)
