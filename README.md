@@ -24,7 +24,8 @@ ___
   </a>
 </div>
 
-🔭 Currently working on: <a href="https://github.com/aiven/devportal">Docs at Aiven</a>
+🔭 Currently working on docs for [Aiven](https://github.com/aiven/aiven-docs), [Aiven Provider for Terraform](https://github.com/aiven/terraform-provider-aiven)
+
 
 ___
 
