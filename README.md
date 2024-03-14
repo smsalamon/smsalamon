@@ -10,7 +10,7 @@
 	],
 	"city": "Berlin",
 	"roles": [
-		"Technical Writer",
+		"Senior Technical Writer",
 		"UX Writer"
 	]
 }
